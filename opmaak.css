@@ -1,4 +1,4 @@
-<!-- laat de punten van de lijst verdwijnen -->
+
 ul {
   list-style-type: none;
   margin: 0;
@@ -11,7 +11,7 @@ li {
   float: left;
   margin-right: 5px;
 }
-<!-- Laat de vorm van het menu zien -->
+
 li a {
   display: block;
   color: white;
@@ -23,5 +23,5 @@ li a {
 li a:hover {
   background-color: #1b1;
 }
-<!-- Geeft aan welke achtergrond kleur de pages hebben -->
+
 body {background-color: lightblue;}
