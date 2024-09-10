@@ -15,7 +15,7 @@ body {background-color: lightblue;}
 .third-level-menu > li
 {
     height: 30px;
-    background: #999999;
+    background: #000000;
 }
 .third-level-menu > li:hover { background: #1b1; }
 
@@ -35,7 +35,7 @@ body {background-color: lightblue;}
 {
     position: relative;
     height: 30px;
-    background: #999999;
+    background: #000000;
 }
 .second-level-menu > li:hover { background: #1b1; }
 
@@ -52,7 +52,7 @@ body {background-color: lightblue;}
     float: left;
     height: 30px;
     width: 150px;
-    background: #999999;
+    background: #000000;
 }
 .top-level-menu > li:hover { background: #1b1; }
 
